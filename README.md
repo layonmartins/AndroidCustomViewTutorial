@@ -5,7 +5,7 @@
 * set the emotional face (happy, neutral and sad)
 * use GradientDrawable
 
-![](Screenshot_20201124-001552_MyCustomViewTest.png)
+![](Screenshot_20201124-001552_MyCustomViewTest.jpg)
 
 ### Reference
 * https://developer.android.com/training/custom-views/custom-drawing.html
